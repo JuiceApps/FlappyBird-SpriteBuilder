@@ -4,8 +4,6 @@
 
 @implementation GamePlayScene
 
-Character*     character;
-CCPhysicsNode* physicsNode;
 
 - (void)initialize
 {
